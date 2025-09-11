@@ -1,4 +1,7 @@
 # Analisis de Video Juegos - Data Analytics
+
+***Presentación complementaria:*** https://docs.google.com/presentation/d/1hrJARXbqQ7l0aFm9SpMTlGeAVqljTVA15dsK4f1gUtU/edit?usp=sharing
+
 Este proyecto realiza un análisis estadístico de datos de ventas de videojuegos utilizando el lenguaje de programación R. Incluye visualizaciones, pruebas estadísticas y análisis de tendencias para explorar patrones en diferentes regiones, géneros y plataformas.
 
 
